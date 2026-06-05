@@ -1,4 +1,5 @@
-﻿:root {
+﻿@import url('https://googleapis.com');
+:root {
       --rose:      #a6384f;
       --rose-dark: #77283a;
       --sage:      #8d9a7a;
@@ -5712,7 +5713,7 @@ padding-left: 10%
 
         .couple-names {
             font-family: 'Cinzel';
-            font-size: .8rem;
+            font-size: .6rem;
             color:#77283a;
             margin-bottom: 0.5rem;
             line-height: 1.2;
