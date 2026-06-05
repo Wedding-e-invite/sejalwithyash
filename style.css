@@ -5711,8 +5711,7 @@ padding-left: 10%
             display: inline-block;
         }
 
-        .couple-names {
-            font-family: 'Cinzel';
+        .couple-names {            
             font-size: .6rem;
             color:#77283a;
             margin-bottom: 0.5rem;
