@@ -2222,7 +2222,7 @@ if (document.readyState !== "loading") initRSVP();
 
   /* ── Page title ── */
   if (couple.bride && couple.groom) {
-    document.title = couple.bride + ' & ' + couple.groom + ' · ShaadiPath';
+    document.title = couple.bride + ' & ' + couple.groom + ' · Baarish';
   }
 
   /* ── Intro section names, date, venue ── */
