@@ -57,7 +57,7 @@ const EVENTS = [
   },
   {
     id: "vidaai",
-    icon: "pn-evt-div-sufi-x-v01",
+    icon: "pn-evt-div-sufi-x-v01.webp",
     name: "Yhe Shaam Mastani",
     date: "25 June 2026", time: "8:00 PM",
     venue: "# 8,9,10 GREEN ESTATE DERABASSI",
