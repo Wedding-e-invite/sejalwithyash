@@ -32,7 +32,7 @@ const EVENTS = [
     id: "sangeet",
     icon: "pn-evt-ico-haldi-x-v01.webp",
     name: "Baharo Phool Barsao",
-    date: "21 June 2026", time: "5:00 PM",
+    date: "22 June 2026", time: "5:00 PM",
     venue: "#8,9,10 GREEN ESTATE DERABSSI",
     note: "Poonam, Meenakshi, Anu , Divya invite you to celebrate a splash of turmeric",
     map: MAP_URL_G
@@ -57,7 +57,7 @@ const EVENTS = [
   },
   {
     id: "vidaai",
-    icon: "pn-evt-div-sufi-x-v01.webp",
+    icon: "pn-evt-div-sufi-x-v01",
     name: "Yhe Shaam Mastani",
     date: "25 June 2026", time: "8:00 PM",
     venue: "# 8,9,10 GREEN ESTATE DERABASSI",
