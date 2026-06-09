@@ -34,7 +34,7 @@ const EVENTS = [
     name: "Baharo Phool Barsao",
     date: "22 June 2026", time: "5:00 PM",
     venue: "#8,9,10 GREEN ESTATE DERABSSI",
-    note: "Poonam, Meenakshi, Anu , Divya invite you to celebrate a splash of turmeric",
+    note: "Poonam, Meenakshi, Anu, Divya, Rachna invite you to celebrate a splash of turmeric",
     map: MAP_URL_G
   },
   {
@@ -52,7 +52,7 @@ const EVENTS = [
     name: "Nach de ne saare",
     date: "24 June 2026", time: "8:00 PM",
     venue: "GRAND ORIENT",
-    note: "Mrs. Meenakshi & Mr. Vipan Jindal , Mrs. Anu & Mr. Rishi Jindal , Mrs. Divya & Mr. Vivek Jindal invites you on cocktail celebrations",
+    note: "Mrs. Meenakshi & Mr. Vipan Jindal , Mrs. Anu & Mr. Rishi Jindal , Mrs. Divya & Mr. Vivek Jindal, Mrs. Rachna and Mr. Manoj jindal  invites you on cocktail celebrations",
     map: MAP_URL_GO
   },
   {
